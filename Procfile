@@ -1,1 +1,1 @@
-web: gunicorn Progreva1.wsgi --log-file - 
+web: gunicorn CURD.wsgi --log-file - 
